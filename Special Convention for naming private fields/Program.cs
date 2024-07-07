@@ -24,7 +24,7 @@ namespace Special_Convention_for_naming_private_fields
 
             public void Save()
             {
-
+                
             }
 
             // Good
@@ -51,8 +51,6 @@ namespace Special_Convention_for_naming_private_fields
                 return true; 
             
             }
-        }
-
         }
 
 
